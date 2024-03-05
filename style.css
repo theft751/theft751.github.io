@@ -19,7 +19,6 @@ header h1
 {
     font-size: 20px;
     margin: auto;
-    width: 80%;
 }
 #article
 {
@@ -66,4 +65,12 @@ header h1
 {
     color: black;
     text-decoration:underline;
+}
+#footer
+{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
 }
